@@ -1,0 +1,22 @@
+{
+  "name": "cld-docs-video",
+  "version": "1.0.0",
+  "description": "Supplemental Code for Cloudinary Documentation Videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cld-docs-video"
+  },
+  "keywords": [
+    "training"
+  ],
+  "author": "Cloudinary",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.25.1",
+    "dotenv": "^9.0.2"
+  }
+}
