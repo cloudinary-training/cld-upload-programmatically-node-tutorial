@@ -33,4 +33,4 @@ https://cloudinary.com/console//media_library/folders/home/asset/<asset id from 
 
 ## Credits
 
-[breakfast.jpg photo by ready made from Pexels](https://www.pexels.com/photo/food-on-plates-3851068/)
+[breakfast.jpg photo by ready made from Pexels](https://www.pexels.com/photo/bread-food-plate-salad-6275111/)

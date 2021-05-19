@@ -8,7 +8,7 @@ const cloudinary = require("cloudinary").v2;
 // Node.js SDK Uploader function returns a Promise
 cloudinary.uploader
   .upload("./assets/images/breakfast.jpg", {
-    tags: ["eggs", "hashbrowns"],
+    tags: ["eggs", "shakshuka", "tomatoes"],
   })
   .then((result) => {
     // JSON.stringify will provide a formatted string
