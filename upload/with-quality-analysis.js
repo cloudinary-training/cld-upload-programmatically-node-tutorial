@@ -3,7 +3,7 @@ require("dotenv").config();
 // we're aliasing version 2 and referencing with a variable
 const cloudinary = require("cloudinary").v2;
 // cloudinary picks up env and is now configured
-// console.log(cloudinary.config().cloud_name);
+console.log(cloudinary.config().cloud_name);
 
 // Node.js SDK Uploader function returns a Promise
 cloudinary.uploader
